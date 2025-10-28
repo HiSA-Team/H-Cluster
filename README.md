@@ -16,3 +16,5 @@ It supports experimentation with a broad range of applications, including:
 - Simulation and acceleration of real-world network environments
 
 Overall, the PCIe Gen5 Cluster represents a unique research infrastructure enabling exploration at the intersection of reconfigurable computing, networking, and distributed intelligence, paving the way for next-generation computing architectures.
+
+![Alt text](./cluster_setup.svg)<img src="./cluster_setup.svg">
